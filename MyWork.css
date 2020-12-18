@@ -1,0 +1,317 @@
+body{
+  background-color: #f99fc9ff;
+}
+.header{
+  overflow: hidden;
+  background-color: #ffff;
+  padding: 10px 5px;
+  border-radius: 4px;
+}
+
+.header a {
+  float: inherit;
+  color: #f99fc9ff;
+  text-align: center;
+  padding: 12px;
+  margin-top: 20px;
+  text-decoration: none;
+  font-size: 22px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+.header a:hover{
+  background-color: #f7ced7ff;
+  color: #f99fc9ff;
+}
+
+.header a.active{
+  background-color: #3c1053ff;
+  color: #f99fc9ff;
+}
+
+.header-right{
+float: right;
+}
+
+.titlemusic{
+  float: left;
+  display: inline;
+  color: #3c1053ff;
+  font-size: 25px;
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+
+.p1{
+  float: left;
+  display: inline;
+  color: white;
+  font-size: 25px;
+  width: 50%;
+  padding-left: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+
+.projekt1{
+  padding-top: 15%;
+  padding-left: 9%;
+  width: 25%;
+}
+
+.projekt2{
+  padding-top: 5%;
+  padding-left: 9%;
+  width: 25%;
+}
+
+.projekt3{
+  padding-top: 5%;
+  padding-left: 9%;
+  width: 25%;
+}
+
+.titlefilm{
+  float: left;
+  display: inline;
+  color: #3c1053ff;
+  font-size: 25px;
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+
+.p2{
+  float: left;
+  display: inline;
+  color: white;
+  font-size: 25px;
+  width: 50%;
+  padding-left: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+
+.titlefilm1{
+  float: left;
+  display: inline;
+  color: #3c1053ff;
+  font-size: 15px;
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+
+.p3{
+  float: left;
+  display: inline;
+  color: white;
+  font-size: 25px;
+  width: 50%;
+  padding-left: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+
+.wrapper1{
+  float: right;
+margin-right: 5%;
+  width: 500px;
+}
+
+.hvad{
+  width: 100%
+}
+
+.titlefilm2{
+  float: left;
+  display: inline;
+  color: #3c1053ff;
+  font-size: 15px;
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+}
+
+.p4{
+  float: left;
+  display: inline;
+  color: white;
+  font-size: 25px;
+  width: 50%;
+  padding-left: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+
+.wrapper2{
+  float: right;
+  margin-right: 5%;
+  width: 500px;
+}
+
+.horror{
+  width: 100%;
+}
+
+.titlefilm3{
+  float: left;
+  display: inline;
+  color: #3c1053ff;
+  font-size: 15px;
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+}
+
+.p5{
+  float: left;
+  display: inline;
+  color: white;
+  font-size: 25px;
+  width: 50%;
+  padding-left: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+
+.wrapper3{
+  float: right;
+  margin-right: 5%;
+  width: 500px;
+}
+
+.hama{
+  width: 100%;
+}
+
+.titlefilm4{
+  float: left;
+  display: inline;
+  color: #3c1053ff;
+  font-size: 15px;
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+}
+
+.p6{
+  float: left;
+  display: inline;
+  color: white;
+  font-size: 25px;
+  width: 50%;
+  padding-left: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+
+.titlefilm4{
+  float: left;
+  display: inline;
+  color: #3c1053ff;
+  font-size: 15px;
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+}
+
+.p6{
+  float: left;
+  display: inline;
+  color: white;
+  font-size: 25px;
+  width: 50%;
+  padding-left: 5%;
+  padding-bottom: 10%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+
+.wrapper4{
+  float: right;
+  margin-right: 5%;
+  width: 500px;
+}
+
+.sv{
+  width: 100%;
+  margin-bottom: 100px;
+}
+
+.illu{
+  float: left;
+  display: inline;
+  color: #3c1053ff;
+  font-size: 15px;
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+}
+
+.p7{
+  float: left;
+  display: inline;
+  color: white;
+  font-size: 25px;
+  width: 50%;
+  padding-left: 5%;
+  font-style: italic;
+  font-family: serif;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+
+.wrapper5{
+  float: right;
+  margin-right: 5%;
+  width: 500px;
+}
+
+.cake{
+  width: 100%;
+  padding-bottom: 100px;
+}
